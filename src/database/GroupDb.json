@@ -1,0 +1,424 @@
+{
+    "students": [
+        {
+            "name": "Владимир",
+            "altname": ["Вова", "Вован", "Володя", "Вовка", "Блодьк"],
+            "surname": "Страшко",
+            "group": "5A94",
+            "numberOnTheList": "23",
+            "numberOnTheRecordBook": "5А93020",
+            "page": "https://sun9-15.userapi.com/impf/CSeZxa4NyyTTjluNl1ybtQHAuQECNdEqroEHAw/O8erFksOw1c.jpg?size=1620x2160&quality=95&sign=25579045f11995c7d9a68ff7c41ffa4a&type=album",
+            "url": "https://vk.com/haywaster02"
+        },
+        {
+            "name": "Яна",
+            "altname": ["Янка","Яся"],
+            "surname": "Корецкая",
+            "group": "5A94",
+            "numberOnTheList": "11",
+            "numberOnTheRecordBook": "5А94011",
+            "page": "https://sun9-44.userapi.com/impf/c848624/v848624948/f60ff/360NwAGV7Ks.jpg?size=2000x1333&quality=96&sign=5a07e756976e0a05506304d6d9e245a1&type=album",
+            "url": "https://vk.com/korts"
+        },
+        {
+            "name": "Надежда",
+            "altname": ["Надя", "Надюха"],
+            "surname": "Семенчина",
+            "group": "5A94",
+            "numberOnTheList": "22",
+            "numberOnTheRecordBook": "5А94018",
+            "page": "https://sun9-44.userapi.com/impf/c850624/v850624403/2f16a/yrOtgFIdse8.jpg?size=1080x809&quality=96&sign=2adceebea4a41b9eb75b04164567a53b&type=album",
+            "url": "https://vk.com/n.semenchina"
+        },
+        {
+            "name": "Анастасия",
+            "altname": "Настя",
+            "surname": "Тайдонова",
+            "group": "5A94",
+            "numberOnTheList": "24",
+            "numberOnTheRecordBook": "5А94019",
+            "page": "https://sun9-22.userapi.com/impf/c847123/v847123778/17432f/3dhoVrsLSho.jpg?size=1440x2160&quality=96&sign=e56f8d394f1fc21c94e724eac8d193cf&type=album",
+            "url": "https://vk.com/anastasia_taydonova"
+        },
+        {
+            "name": "Дмитрий",
+            "altname": ["Дима", "Димон", "Митя"],
+            "surname": "Акатьев",
+            "group": "5A94",
+            "numberOnTheList": "1",
+            "numberOnTheRecordBook": "5А96003",
+            "page": "https://sun9-43.userapi.com/impf/QNf5Dfi00FxSe0b9HqeqU4rvctUbA8W1VHTxKQ/ZZrwizBFG4Y.jpg?size=828x952&quality=95&sign=92c0cd265ace57d4a34a3051652d9ed4&type=album",
+            "url": "https://vk.com/di.akatavo"
+        },
+        {
+            "name": "Ольга",
+            "altname": "Оля",
+            "surname": "Карташева",
+            "group": "5A94",
+            "numberOnTheList": "9",
+            "numberOnTheRecordBook": "5А94010",
+            "page": "https://sun9-77.userapi.com/impg/jxo_CZBbcRfdRionPjOlBo93pi-yjLxGqYsgFw/y2x6RmiQBDc.jpg?size=545x1080&quality=96&sign=e5f22ecd7808de23e9e8a86d751b6086&type=album",
+            "url": "https://vk.com/kaska60"
+        },
+        {
+            "name": "Максим",
+            "altname": ["Макс", "Максон", "Максислав"],
+            "surname": "Бюллер",
+            "group": "5A94",
+            "numberOnTheList": "4",
+            "numberOnTheRecordBook": "5А94003",
+            "page": "https://sun9-13.userapi.com/impf/c841621/v841621775/288b0/x-ySfhTmJwU.jpg?size=640x480&quality=96&sign=d2014703076192485a2d171cf6bd6f26&type=album",
+            "url": "https://vk.com/maks_buller"
+        },
+        {
+            "name": "Даниил",
+            "altname": ["Даня", "Денчик"],
+            "surname": "Масленков",
+            "group": "5A94",
+            "numberOnTheList": "16",
+            "numberOnTheRecordBook": "5А93014",
+            "page": "https://sun9-88.userapi.com/impf/OdP8SGbFv__Mug5m9cp_lXyL0SWmHi-8RHEaLQ/e5ltO86dSoc.jpg?size=1920x1080&quality=95&sign=048cb60d6182d46a9c1f7d9892f88c3c&type=album",
+            "url": "https://vk.com/dmaslenkov"
+        },
+        {
+            "name": "Анна",
+            "altname": "Аня",
+            "surname": "Лебедева",
+            "group": "5A94",
+            "numberOnTheList": "14",
+            "numberOnTheRecordBook": "5А94012",
+            "page": "",
+            "url": "https://vk.com/licoricee"
+        },
+        {
+            "name": "Алексей",
+            "altname": ["Леха", "Леша"],
+            "surname": "Беспалов",
+            "group": "5A94",
+            "numberOnTheList": "2",
+            "numberOnTheRecordBook": "5А94001",
+            "page": "https://sun9-58.userapi.com/impf/_6OihX4nSXPoVF4yntbhdeZWESWwM2zFERrmXg/uB6QResSNtg.jpg?size=1620x2160&quality=95&sign=ce137d43699473f95fddd9f4560f12ef&type=album",
+            "url": "https://vk.com/alexf0rce"
+        },
+        {
+            "name": "Ирина",
+            "altname": "Ира",
+            "surname": "Миллер",
+            "group": "5A94",
+            "numberOnTheList": "18",
+            "numberOnTheRecordBook": "5А94013",
+            "page": "https://sun4-17.userapi.com/s/v1/ig2/jbknsoQmWHH0zzGHdzwZ-FaPXqOaTqXbOMqExPbBXLA-UT5oIBDDaWEVxq7qwAS1UwSAsdulFmFbdhBnCFKrnu6g.jpg?size=200x266&quality=96&crop=0,0,1620,2160&ava=1",
+            "url": "https://vk.com/id214752767"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек"],
+            "surname": "Кудряков",
+            "group": "5A94",
+            "numberOnTheList": "12",
+            "numberOnTheRecordBook": "5А95009",
+            "page": "https://sun9-83.userapi.com/impf/L34iUXNVd669hTVP-Jt3DjscBJrG10pUGFZm_Q/b8pn7dazHjk.jpg?size=1620x2160&quality=96&sign=c82c2f51f87fea141bf7e06932efed58&type=album",
+            "url": "https://vk.com/a_kudryakov"
+        },
+        {
+            "name": "Виктория",
+            "altname": "Вика",
+            "surname": "Гречаная",
+            "group": "5A94",
+            "numberOnTheList": "5",
+            "numberOnTheRecordBook": "5А94004",
+            "page": "https://sun9-27.userapi.com/impg/kxJrdh2ctlDsO83tldLauxVIGTR0KlRFc60-pA/-QofG6ZQTzM.jpg?size=1620x2160&quality=96&sign=b12c3d9fafc6a54a7916435373421062&type=album",
+            "url": "https://vk.com/tearsforever"
+        },
+        {
+            "name": "Виктория",
+            "altname": "Вика",
+            "surname": "Тайдонова",
+            "group": "5A94",
+            "numberOnTheList": "25",
+            "numberOnTheRecordBook": "5А94020",
+            "page": "https://sun9-74.userapi.com/impf/c851432/v851432060/85c4a/Fv5k7oJyP_o.jpg?size=1814x2160&quality=96&sign=7090608cf8030d80a990531f6902f088&type=album",
+            "url": "https://vk.com/id_vika_2001"
+        },
+        {
+            "name": "Алексей",
+            "altname": ["Леха", "Леша"],
+            "surname": "Кузякин",
+            "group": "5A94",
+            "numberOnTheList": "13",
+            "numberOnTheRecordBook": "5А91015",
+            "page": "https://sun9-31.userapi.com/impg/c855020/v855020122/1dac3e/GdJJ1jugGRo.jpg?size=980x1472&quality=96&sign=e2311c2a13ad99bee1b8f3b9c6e5ad3f&type=album",
+            "url": "https://vk.com/alabax1"
+        },
+        {
+            "name": "Алексей",
+            "altname": ["Леха", "Леша"],
+            "surname": "Конев",
+            "group": "5A94",
+            "numberOnTheList": "10",
+            "numberOnTheRecordBook": "5А93010",
+            "page": "https://sun9-60.userapi.com/impf/c852232/v852232845/15fa5f/G8vw2bcT_zI.jpg?size=480x480&quality=96&sign=5d51af12bac9d028f68d2257f19b1555&type=album",
+            "url": "https://vk.com/molofornia"
+        },
+        {
+            "name": "Данил",
+            "altname": ["Даня", "Денчик"],
+            "surname": "Еремеев",
+            "group": "5A94",
+            "numberOnTheList": "8",
+            "numberOnTheRecordBook": "5А95007",
+            "page": "https://sun9-53.userapi.com/impf/FLprUPt1k5dAEDnXj2ZvqY9kOloYSi_TVMbMUA/2maLbj6bsZ0.jpg?size=960x1280&quality=96&sign=fa2f4a5a049ac299964d0c11d86fee53&type=album",
+            "url": "https://vk.com/id311512311"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек"],
+            "surname": "Милешкин",
+            "group": "5A94",
+            "numberOnTheRecordBook": "5А95013",
+            "numberOnTheList": "17",
+            "page": "https://sun9-14.userapi.com/impg/7GVTRjyHeKuvfZNU-4_Pm9QuPshOnzQ1eeQjNg/gDUYleUJY14.jpg?size=1920x1440&quality=96&sign=51a0fbd21fc3fdf2258b69323a5137cd&type=album",
+            "url": "https://vk.com/soltsiska"
+        },
+        {
+            "name": "Владислав",
+            "altname": ["Влад", "Владик", "Владос"],
+            "surname": "Лигузов",
+            "group": "5A94",
+            "numberOnTheRecordBook": "5А96010",
+            "numberOnTheList": "15",
+            "page": "https://sun9-17.userapi.com/impf/c852216/v852216106/1630e0/QHaNhNMSCIQ.jpg?size=1620x2160&quality=96&sign=18a8ebd46f65ba2187e8fc951ff0e6f0&type=album",
+            "url": "https://vk.com/vlad_liguzov"
+        },
+        {
+            "name": "Егор",
+            "altname": ["Егор", "Егорыч", "Егорка"],
+            "surname": "Дягилев",
+            "group": "5A94",
+            "numberOnTheList": "7",
+            "numberOnTheRecordBook": "5А94006",
+            "page": "https://sun9-83.userapi.com/impf/NEsnvT33kOiOEhrsHKbLBYfyPf5Lhb6EqVkpOg/hZng1lbvbSk.jpg?size=480x640&quality=96&sign=c6369b0c19cc93c24363065961c6f8ac&type=album",
+            "url": "https://vk.com/dyagilardo"
+        },
+        {
+            "name": "Антон",
+            "altname": ["Тоха", "Тоша", "Антоха"],
+            "surname": "Гриднев",
+            "group": "5A94",
+            "numberOnTheList": "6",
+            "numberOnTheRecordBook": "5А95005",
+            "page": "",
+            "url": "https://vk.com/antongridnev624"
+        },
+        {
+            "name": "Денис",
+            "altname": ["Ден", "Дэн"],
+            "surname": "Натаров",
+            "group": "5A94",
+            "numberOnTheList": "19",
+            "numberOnTheRecordBook": "5А84020",
+            "page": "https://sun9-82.userapi.com/impf/c834304/v834304445/149a8a/6ynGKfkl5CY.jpg?size=2122x1707&quality=96&sign=5113dad3c52dfa8fb92d8e892c957e09&type=album",
+            "url": "https://vk.com/natarov200"
+        },
+        {
+            "name": "Дмитрий",
+            "altname": ["Дима", "Димон", "Митя"],
+            "surname": "Пархоменко",
+            "group": "5A94",
+            "numberOnTheList": "20",
+            "numberOnTheRecordBook": "5А91021",
+            "page": "https://sun9-85.userapi.com/impf/c847018/v847018340/1ed89b/ui8cbK8pTHQ.jpg?size=610x687&quality=96&sign=b6ac1d69fcdb64b59b768221dd5ffc35&type=album",
+            "url": "https://vk.com/parkhomenko98"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек"],
+            "surname": "Попов",
+            "group": "5A94",
+            "numberOnTheList": "21",
+            "numberOnTheRecordBook": "5А94016",
+            "page": "https://sun9-49.userapi.com/impf/YWqWZryy969Lpfx4TLGl4iDV4E330fzXpWCl6w/aHKuQy0_h_o.jpg?size=799x1193&quality=96&sign=aecb338e55d9058e7d1a4416567686bc&type=album",
+            "url": "https://vk.com/darknessanomaly"
+        },
+        {
+            "name": "Дарима",
+            "altname": "Дарима",
+            "surname": "Бодоулова",
+            "group": "5A94",
+            "numberOnTheRecordBook": "5А75003",
+            "numberOnTheList": "3",
+            "page": "https://sun9-78.userapi.com/impf/c841435/v841435883/15b6b/fc1niSidWHE.jpg?size=720x720&quality=96&sign=b3ff22e0b589a239304ac6e479fb8253&type=album",
+            "url": "https://vk.com/id232387393"
+        },
+        {
+            "name": "Демьян",
+            "altname": "Демьян",
+            "surname": "Белокуров",
+            "group": "5A93",
+            "numberOnTheList": "3",
+            "numberOnTheRecordBook": "5А95003",
+            "page": "https://sun9-38.userapi.com/impf/gcetx--MSpGvkID8p10Uco1bxZsUdAMjKnxT6g/JzP_C4JzkEs.jpg?size=1586x2160&quality=95&sign=9ecc6ea0ce00e9877088ae2731b66b7f&type=album",
+            "url": "https://vk.com/vk.demyan"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек", "Новик"],
+            "surname": "Новиков",
+            "group": "5A93",
+            "numberOnTheList": "19",
+            "numberOnTheRecordBook": "5А92015",
+            "page": "",
+            "url": "https://vk.com/id187485479"
+        },
+        {
+            "name": "Михаил",
+            "altname": ["Мишаня", "Миша", "Мишган", "Мишура"],
+            "surname": "Шлапак",
+            "group": "5A93",
+            "numberOnTheList": "28",
+            "numberOnTheRecordBook": "5А93025",
+            "page": "https://sun9-35.userapi.com/impf/IYCm2ROCsVvTT1x3a2oqz3n8EWH2y1fZcnhLCQ/fitFj8T-FIY.jpg?size=810x1080&quality=95&sign=78604f325a6d8f0c4a819b70391a7c57&type=album",
+            "url": "https://vk.com/miloshevich9"
+        },
+        {
+            "name": "Валерия",
+            "altname": ["Лера", "Леросик"],
+            "surname": "Руденок",
+            "group": "5A93",
+            "numberOnTheList": "21",
+            "numberOnTheRecordBook": "5А97015",
+            "page": "https://sun4-16.userapi.com/s/v1/ig2/ss9i3T1Q4FiAriN5itL9uMU6_Uualf6Czl2Humk4gM2qPu_RPd1m_b9SAzJzaE9Z2a2i69ig9uaep7FyBPdDRynp.jpg?size=200x223&quality=95&crop=0,611,1599,1788&ava=1",
+            "url": "https://vk.com/idria17"
+        },
+        {
+            "name": "Маргарита",
+            "altname": ["Ритос", "Рита", "Марго"],
+            "surname": "Запоточнова",
+            "group": "5A93",
+            "numberOnTheList": "12",
+            "numberOnTheRecordBook": "5А94008",
+            "page": "https://sun9-11.userapi.com/impf/DfWTkL-OCTywx3sCmb-A57hbpelg3sXxJw4uvA/L7l2LYM0C4o.jpg?size=1536x2048&quality=96&sign=195f87d64b2f9b73d37c4a585489b410&type=album",
+            "url": "https://vk.com/id211070463"
+        }, 
+        {
+            "name": "Артем",
+            "altname": "Тема",
+            "surname": "Кирякин",
+            "group": "5A93",
+            "numberOnTheList": "14",
+            "numberOnTheRecordBook": "5А95008",
+            "page": "https://sun9-7.userapi.com/impf/c830109/v830109412/f6170/7G1N__gZkTM.jpg?size=1152x2048&quality=96&sign=85f1819e49da03cc5ffbe84f7e79a39d&type=album",
+            "url": "https://vk.com/id222008055"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек", "Санчеза"],
+            "surname": "Егоров",
+            "group": "5A93",
+            "numberOnTheList": "10",
+            "numberOnTheRecordBook": "5А92005",
+            "page": "https://sun9-39.userapi.com/impg/mx2kcjUBKmzdYYH68FR9ZFDlPWPlkAsGz6Yrwg/s1f7dss9nrk.jpg?size=842x1080&quality=96&sign=6afc49034e5eb0b3e71810b2276a9193&type=album",
+            "url": "https://vk.com/egorovtkt"
+        },
+        {
+            "name": "Светлана",
+            "altname": ["Света", "Светорик"],
+            "surname": "Саматова",
+            "group": "5A93",
+            "numberOnTheList": "22",
+            "numberOnTheRecordBook": "5А94017",
+            "page": "https://sun9-56.userapi.com/impf/rKqr5wo6Pl9QXi2p4yDN3kZUrudCWDwMogGcKQ/EHNBmxeUrww.jpg?size=1620x2160&quality=96&sign=b31bcf314d2638038d6e4f355f7b39c4&type=album",
+            "url": "https://vk.com/s_sveta_m"
+        },
+        {
+            "name": "Никита",
+            "altname": "Некит",
+            "surname": "Солодников",
+            "group": "5A93",
+            "numberOnTheList": "22",
+            "numberOnTheRecordBook": "5А93019",
+            "page": "https://sun9-71.userapi.com/impf/jGHDxT4bu59Ez3JQTxlDf2OlbWcsLm4eIf3FpQ/2ONEKZDG6HA.jpg?size=719x1280&quality=96&sign=322e311984c55ed15ec99853ad735b35&type=album",
+            "url": "https://vk.com/id586132731"
+        },
+        {
+            "name": "Вадим",
+            "altname": "Вадик",
+            "surname": "Рейдер",
+            "group": "5A93",
+            "numberOnTheList": "20",
+            "numberOnTheRecordBook": "5А97014",
+            "page": "https://sun9-81.userapi.com/impf/iqaE9hqz4j3YJ2Y3mbD255icW2k1jNMeEQFb9Q/lVkSW_Mey84.jpg?size=811x922&quality=96&sign=57b8108032d092398335b35584d2f58f&type=album",
+            "url": "https://vk.com/id173745128"
+        },
+        {
+            "name": "Николай",
+            "altname": ["Коля", "Колянчик", "Колясик", "Коляска", "Колян", "Кальян"],
+            "surname": "Толмачев",
+            "group": "5A93",
+            "numberOnTheList": "26",
+            "numberOnTheRecordBook": "5А91023",
+            "page": "",
+            "url": "https://vk.com/xzhbr"
+        },
+        {
+            "name": "Константин",
+            "altname": ["Костя", "Костян", "Котян", "Котянчик", "Костянчик", "Едакин"],
+            "surname": "Едакин",
+            "group": "5A93",
+            "numberOnTheList": "11",
+            "numberOnTheRecordBook": "5А94007",
+            "page": "https://sun9-2.userapi.com/impf/c846524/v846524462/a027c/8cKkMM72hIA.jpg?size=1620x2160&quality=96&sign=8ffd92ceec2edf38911c4fcb87451125&type=album",
+            "url": "https://vk.com/id221539246"
+        },
+        {
+            "name": "Дмитрий",
+            "altname": ["Дима", "Димон", "Митя"],
+            "surname": "Старовойтов",
+            "group": "5A93",
+            "numberOnTheList": "25",
+            "numberOnTheRecordBook": "5А95021",
+            "page": "",
+            "url": "https://vk.com/starovoytov1652"
+        },
+        {
+            "name": "Санат",
+            "altname": ["жук", "клещ", "комар", "плющ", "гнус", "вампир", "айфон", "марвел", "офицер", "пиявка", "кулекнет", "сэйнэт", "паразит", "тот самый релейщик", "алтайец", "газпром"],
+            "surname": "Кокулеков",
+            "group": "5A93",
+            "numberOnTheList": "15",
+            "numberOnTheRecordBook": "5А93009",
+            "page": "https://sun9-32.userapi.com/impf/r7Bv7BEIwSaD4tP7YCX5Vt5tFibyCHTE8yRXXw/MDzFDyVuMDQ.jpg?size=1620x2160&quality=96&sign=ffb03d4478b9be35e68c2949a75c2567&type=album",
+            "url": "https://vk.com/s.kokulekov"
+        },
+        {
+            "name": "Вячеслав",
+            "altname": ["Слава", "Славчанский"],
+            "surname": "Кутонов",
+            "group": "5A93",
+            "numberOnTheList": "17",
+            "numberOnTheRecordBook": "5А95010",
+            "page": "",
+            "url": "https://vk.com/slku05"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек"],
+            "surname": "Селяев",
+            "group": "5A93",
+            "numberOnTheList": "23",
+            "numberOnTheRecordBook": "5А92018",
+            "page": "https://sun9-8.userapi.com/impg/9d04Rx5p6jrXjHN_FuSNMQ-iY62nWUGxIqRFNA/CY0CJ4Ugz4c.jpg?size=1537x1870&quality=96&sign=5c5c44e0accb85f46a8fba1b7fee0a1c&type=album",
+            "url": "https://vk.com/selyaev"
+        },
+        {
+            "name": "Максим",
+            "altname": ["Макс", "Максон", "Максянский", "Глубокая глотка"],
+            "surname": "Горин",
+            "group": "5A93",
+            "numberOnTheList": "23",
+            "numberOnTheRecordBook": "5А91007",
+            "page": "https://sun9-23.userapi.com/impf/c854324/v854324352/1c32f4/GU0eiDmG67E.jpg?size=1364x2048&quality=96&sign=89cbd7882883b6eb4b39246558027902&type=album",
+            "url": "https://vk.com/my.tanks"
+        }
+    ]
+}
