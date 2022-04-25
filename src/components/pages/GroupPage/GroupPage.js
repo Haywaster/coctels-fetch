@@ -1,21 +1,23 @@
 import {useState} from 'react'
-import data from '../../../database/GroupDb.json'
 import View from '../../view/View'
 import SearchPerson from '../../searchPerson/SearchPerson';
+import StudentsService from '../../../service/StudentsService';
 import './GroupPage.css'
 
 const GroupPage = () => {
-    const [header, setHeader] = useState('Какой нужен вариант?');
-    const [placeholder, setPlaceholder] = useState('Введите номер')
-    const [inputType, setInputType] = useState('number')
+    const [header] = useState('Какой нужен вариант?');
+    const [placeholder] = useState('Введите номер')
+    const [inputType] = useState('number')
     const [switchNumber, setSwitchNumber] = useState('По списку')
     const [enterValue, setEnteredValue] = useState('')
     const [sameNameSurname, setSameNameSurname] = useState([]);
-    const [items] = useState(data);
     const [error, setError] = useState(false);
     const [personArr, setPersonArr] = useState([]);
     const [person, setPerson] = useState(null);
     const [showData, setShowData] = useState(false);
+    const [items, setItems] = useState([]);
+    
+    StudentsService(setItems, setError);
 
     return (
         <div className='NamePage-wrap'>
@@ -34,7 +36,6 @@ const GroupPage = () => {
                 switchNumber={switchNumber}
                 inputType={inputType}
                 placeholder={placeholder}
-                items={items}
                 person={person}
                 setPerson={setPerson}
                 enterValue={enterValue}
@@ -44,6 +45,7 @@ const GroupPage = () => {
                 showData={showData}
                 setShowData={setShowData}
                 setError={setError}
+                items={items}
                 setPersonArr={setPersonArr}/>
         </div>
     )

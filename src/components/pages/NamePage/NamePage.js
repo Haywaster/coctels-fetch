@@ -1,21 +1,22 @@
 import {useState} from 'react'
-import data from '../../../database/GroupDb.json'
 import View from '../../view/View'
 import SearchPerson from '../../searchPerson/SearchPerson';
+import StudentsService from '../../../service/StudentsService';
 import './NamePage.css'
-import { Route } from 'react-router-dom';
 
 const NamePage = () => {
-    const [header, setHeader] = useState('Как его зовут?');
-    const [placeholder, setPlaceholder] = useState('Введите имя')
-    const [inputType, setInputType] = useState('text')
+    const [header] = useState('Как его зовут?');
+    const [placeholder] = useState('Введите имя')
+    const [inputType] = useState('text')
     const [enterValue, setEnteredValue] = useState('')
     const [sameNameSurname, setSameNameSurname] = useState([]);
-    const [items] = useState(data);
     const [error, setError] = useState(false);
     const [personArr, setPersonArr] = useState([]);
     const [person, setPerson] = useState(null);
     const [showData, setShowData] = useState(false);
+    const [items, setItems] = useState([]);
+
+    StudentsService(setItems, setError);
 
     return (
         <div className='NamePage-wrap'>

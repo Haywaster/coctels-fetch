@@ -6,6 +6,7 @@ import Title from '../title/Title';
 
 const App = () => {
     return (
+        
         <div className='App'>
             <header>
                 <Title/>
@@ -15,7 +16,7 @@ const App = () => {
                     <Route path='/' element={
                         <>
                             <Link className='App-nav-item' to="/name" element={<NamePage/>}>Ищешь кого-то?</Link>  
-                            <Link className='App-nav-item' to="/number">Ищешь вариант?</Link>
+                            <Link className='App-nav-item' to="/number" element={<GroupPage/>}>Ищешь вариант?</Link>
                         </>
                         }
                     />

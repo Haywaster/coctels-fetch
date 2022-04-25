@@ -3,7 +3,7 @@ import ArrowBack from './arrowBack/ArrowBack'
 import Button from './button/Button';
 
 const SearchPerson = ({items, enterValue, setEnteredValue, sameNameSurname, setSameNameSurname, person, setPerson, setPersonArr, setError, setShowData, placeholder, inputType, switchNumber, setSwitchNumber}) => {    
-
+    
     function search(e) {
         e.preventDefault();
         setEnteredValue('')
@@ -17,7 +17,7 @@ const SearchPerson = ({items, enterValue, setEnteredValue, sameNameSurname, setS
     
     function addName (event) {
         event.preventDefault();
-        setEnteredValue(event.target.value)
+        setEnteredValue(event.target.value);
     }
 
     function searchNumber() {
@@ -42,6 +42,7 @@ const SearchPerson = ({items, enterValue, setEnteredValue, sameNameSurname, setS
     }
 
     function searchPerson() {
+        console.log(items)
         const personArr = items.students.filter(item => {
             let obj;
 
