@@ -42,7 +42,6 @@ const SearchPerson = ({items, enterValue, setEnteredValue, sameNameSurname, setS
     }
 
     function searchPerson() {
-        console.log(items)
         const personArr = items.students.filter(item => {
             let obj;
 
@@ -104,7 +103,6 @@ const SearchPerson = ({items, enterValue, setEnteredValue, sameNameSurname, setS
                 <button type="submit" onClick={search}>&#xf0da;</button>
             </div>
         </form>
-        
         {window.location.pathname === '/number' ? <Button setSwitchNumber={setSwitchNumber} switchNumber={switchNumber}/> : null}
         </>
     )

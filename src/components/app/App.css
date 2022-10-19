@@ -3,7 +3,7 @@
 }
 
 .App {
-    background-color: #282c34;
+    background: url(../../pictures/17fa0c5db02594f854d3ab1a8774390c.jpg) center center/cover no-repeat;
 }
 
 .App-nav {
@@ -16,14 +16,41 @@
 }
 
 .App-nav-item {
+    width: 400px;
+    text-align: center;
     font-size: 1.5em;
     color: white;
     text-decoration: none;
     font-weight: bold;
     transition: 0.5s;
+    text-shadow: 2px 2px 2px #000;
+    background-color:rgba(205, 133, 63, 0.5);
+    border-radius: 20px;
 }
 
-.App-nav-item:hover {
-    transform: scale(1.3);
-    color: pink;
+.App-footer {
+    text-align: center;
+}
+
+@media (max-width: 770px) {
+    .App-nav {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .App-nav-item:last-child {
+        margin-top: 50px;
+    }
+    .App-nav-item {
+        background-color:dimgrey;
+        border-radius: 10px;
+        width: 300px;
+    }
+}
+
+@media (min-width: 770px) {
+    .App-nav-item:hover {
+        transform: scale(1.3);
+        color: pink;
+        background-color:rgba(65, 78, 71, 1);
+    }
 }

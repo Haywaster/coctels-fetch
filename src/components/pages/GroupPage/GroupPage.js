@@ -20,7 +20,7 @@ const GroupPage = () => {
     StudentsService(setItems, setError);
 
     return (
-        <div className='NamePage-wrap'>
+        <section className='NamePage-wrap'>
             <View 
                 header={header}
                 error={error} 
@@ -47,7 +47,7 @@ const GroupPage = () => {
                 setError={setError}
                 items={items}
                 setPersonArr={setPersonArr}/>
-        </div>
+        </section>
     )
 }
 

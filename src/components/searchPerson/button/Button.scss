@@ -44,15 +44,17 @@ $red: #FFFFE0;
   }
 }
 
-.btn-1:hover {
-  background: rgba($red, 1);
-  font-weight: 900;
-  letter-spacing: 1px;
-  
-  rect {
-    stroke-width: 5;
-    stroke-dasharray: 15, 310;
-    stroke-dashoffset: 48;
-    transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
-  }
+@media (min-width: 770px) {
+    .btn-1:hover {
+        background: rgba($red, 1);
+        font-weight: 900;
+        letter-spacing: 1px;
+        
+        rect {
+          stroke-width: 5;
+          stroke-dasharray: 15, 310;
+          stroke-dashoffset: 48;
+          transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
+        }
+      }
 }

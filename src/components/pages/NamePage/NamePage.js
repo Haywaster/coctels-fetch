@@ -19,7 +19,7 @@ const NamePage = () => {
     StudentsService(setItems, setError);
 
     return (
-        <div className='NamePage-wrap'>
+        <section className='NamePage-wrap'>
             <View 
                 header={header}
                 error={error} 
@@ -44,7 +44,7 @@ const NamePage = () => {
                 setShowData={setShowData}
                 setError={setError}
                 setPersonArr={setPersonArr}/>
-        </div>
+        </section>
     )
 }
 

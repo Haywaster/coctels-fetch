@@ -47,7 +47,7 @@ h1{
 }
 #signin  input[type="text"], #signin  input[type="number"], #signin button[type="submit"]{
 	background: rgb(28, 30, 33);
-	box-shadow: inset -100px -100px 0 rgb(28, 30, 33); /*Prevent yellow autofill color*/
+	box-shadow: inset -100px -100px 0 rgb(28, 30, 33);
 	color: rgb(52, 56, 61);
 }
 #signin  input[type="text"], #signin  input[type="number"]{
@@ -61,7 +61,7 @@ h1{
 	padding: 0 0 0 20px;
 	font-weight: 700;
 }
-#signin  input[type="text"]:focus, #signin  input[type="number"]:focus{
+#signin input[type="text"]:focus, #signin  input[type="number"]:focus{
 	color: rgb(255, 255, 255);
 }
 #signin button[type="submit"]{
@@ -82,22 +82,15 @@ h1{
 	padding-bottom: 3px;
 	text-align: center;
 }
-#signin button[type="submit"]:hover{
-	color: rgb(0, 126, 165);
-	text-shadow: 0 0 10px rgb(0, 126, 165);
-	cursor: pointer;
-}
-#signin p {
-	color: rgb(79, 85, 97);
-	padding: 0 20px;
-	font-weight: 700;
-	font-size: 12px;
-	margin: 5px 0 0 0;
-}
-#signin p > a{
-	color: rgb(111, 119, 135);
-	text-decoration: none;
-}
-#signin p > a:hover{
-	border-bottom: 1px solid;
+
+@media (min-width: 770px) {
+    #signin button[type="submit"]:hover{
+        color: rgb(0, 126, 165);
+        text-shadow: 0 0 10px rgb(0, 126, 165);
+        cursor: pointer;
+    }
+
+    #signin p > a:hover{
+        border-bottom: 1px solid;
+    }
 }

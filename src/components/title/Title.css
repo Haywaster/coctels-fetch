@@ -1,11 +1,12 @@
 .Title {
-    text-shadow:
-    1px 1px 1px silver,
-    -1px 1px 1px silver;
+    width: 150px;
+    text-shadow: 2px 1px 2px #000;
+    background-color:maroon;
+    border-radius:20px;
     color: white;
     transition: all .5s;
-    position: absolute; 
-    top: 0; left: 0; 
+    position: fixed; 
+    top: 0; left: 20px; 
     z-index:500;
     font-style: italic;
     cursor: pointer;
